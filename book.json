@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "copy-code",
+        "copyright"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "auto_open": true
+        }
+    }
+}
